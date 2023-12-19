@@ -1,5 +1,5 @@
 # To run the mars-rover Program 
-- In terminal type `npm install`
+- In terminal type `npm install` to install all the package 
 - To run the program `npm run rover`
 - To run the test `npm run test`
 - To run the coverage `npm run coverage`
