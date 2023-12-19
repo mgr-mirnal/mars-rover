@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "jest --detectOpenHandles",
+    "coverage": "jest --coverage",
+    "rover": "node function.js"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
