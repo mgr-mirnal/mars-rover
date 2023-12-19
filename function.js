@@ -71,3 +71,5 @@ r.question('Enter Plature max coordinates: ', (givenCoordinates) => {
         console.error("Error inputing max coordinates: ", error);
     }
 })
+
+module.exports = {runInstructions, processRover}
