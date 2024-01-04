@@ -10,8 +10,6 @@ describe("Rover class", () => {
         rover.turnLeft();
         expect(rover.direction).toEqual('W')
     })
-    
-   
     it('rover should face E when it turns right, ', ()=>{
         let rover = new Rover(1 , 2 , 'N')
 
